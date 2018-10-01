@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/monitor
+END
+SOAPMonitorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/monitor/SOAPMonitorConstants.java
+END
+SOAPMonitorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/monitor/SOAPMonitorService.java
+END

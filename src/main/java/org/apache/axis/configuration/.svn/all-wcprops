@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration
+END
+EngineConfigurationFactoryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration/EngineConfigurationFactoryServlet.java
+END
+DirProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration/DirProvider.java
+END
+FileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration/FileProvider.java
+END
+EngineConfigurationFactoryFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration/EngineConfigurationFactoryFinder.java
+END
+BasicClientConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration/BasicClientConfig.java
+END
+EngineConfigurationFactoryDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration/EngineConfigurationFactoryDefault.java
+END
+ServletEngineConfigurationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration/ServletEngineConfigurationFactory.java
+END
+XMLStringProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration/XMLStringProvider.java
+END
+NullProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration/NullProvider.java
+END
+DefaultEngineConfigurationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration/DefaultEngineConfigurationFactory.java
+END
+SimpleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration/SimpleProvider.java
+END
+BasicServerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/configuration/BasicServerConfig.java
+END

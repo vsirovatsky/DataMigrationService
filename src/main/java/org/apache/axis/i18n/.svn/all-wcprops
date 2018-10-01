@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/i18n
+END
+RB.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/i18n/RB.java
+END
+resource.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/i18n/resource.properties
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/i18n/Messages.java
+END
+ProjectResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/i18n/ProjectResourceBundle.java
+END
+MessageBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/i18n/MessageBundle.java
+END
+resource_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/i18n/resource_ja.properties
+END
+MessagesConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/i18n/MessagesConstants.java
+END

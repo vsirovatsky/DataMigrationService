@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/strategies
+END
+WSDLGenStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/strategies/WSDLGenStrategy.java
+END
+InvocationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/strategies/InvocationStrategy.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/transport/java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/transport/java/Handler.java
+END
+JavaSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/transport/java/JavaSender.java
+END
+JavaTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/transport/java/JavaTransport.java
+END

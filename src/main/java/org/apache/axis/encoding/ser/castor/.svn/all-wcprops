@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/encoding/ser/castor
+END
+CastorEnumTypeDeserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/encoding/ser/castor/CastorEnumTypeDeserializer.java
+END
+CastorEnumTypeSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/encoding/ser/castor/CastorEnumTypeSerializer.java
+END
+CastorEnumTypeSerializerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/encoding/ser/castor/CastorEnumTypeSerializerFactory.java
+END
+CastorEnumTypeDeserializerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/encoding/ser/castor/CastorEnumTypeDeserializerFactory.java
+END
+CastorSerializerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/encoding/ser/castor/CastorSerializerFactory.java
+END
+CastorDeserializerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/encoding/ser/castor/CastorDeserializerFactory.java
+END
+CastorDeserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/encoding/ser/castor/CastorDeserializer.java
+END
+CastorSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/encoding/ser/castor/CastorSerializer.java
+END
+AxisContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/encoding/ser/castor/AxisContentHandler.java
+END

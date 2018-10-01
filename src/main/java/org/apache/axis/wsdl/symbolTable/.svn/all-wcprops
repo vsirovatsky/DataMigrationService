@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/530561/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable
+END
+FaultInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/FaultInfo.java
+END
+CollectionTE.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/CollectionTE.java
+END
+UndefinedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/UndefinedType.java
+END
+Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/530561/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/Parameters.java
+END
+ContainedEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/ContainedEntry.java
+END
+ServiceEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/ServiceEntry.java
+END
+TypeEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/TypeEntry.java
+END
+BackslashUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/BackslashUtil.java
+END
+SymbolTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/530561/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/SymbolTable.java
+END
+UndefinedDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/UndefinedDelegate.java
+END
+DefinedElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/DefinedElement.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/Utils.java
+END
+PortEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/PortEntry.java
+END
+Undefined.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/Undefined.java
+END
+SchemaUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/489231/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/SchemaUtils.java
+END
+BindingEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/BindingEntry.java
+END
+UndefinedElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/UndefinedElement.java
+END
+MessageEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/MessageEntry.java
+END
+BaseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/BaseType.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/Parameter.java
+END
+ContainedAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/ContainedAttribute.java
+END
+ElementDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/ElementDecl.java
+END
+SymTabEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/SymTabEntry.java
+END
+DefinedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/DefinedType.java
+END
+BaseTypeMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/BaseTypeMapping.java
+END
+MimeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/MimeInfo.java
+END
+CollectionElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/CollectionElement.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/Element.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/Type.java
+END
+CollectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/CollectionType.java
+END
+PortTypeEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/wsdl/symbolTable/PortTypeEntry.java
+END

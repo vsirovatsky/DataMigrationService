@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders
+END
+DoubleWrapperHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/DoubleWrapperHolder.java
+END
+Holder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/Holder.java
+END
+ObjectHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/ObjectHolder.java
+END
+CalendarHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/CalendarHolder.java
+END
+BigIntegerHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/BigIntegerHolder.java
+END
+QNameHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/QNameHolder.java
+END
+FloatHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/FloatHolder.java
+END
+LongHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/LongHolder.java
+END
+ShortHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/ShortHolder.java
+END
+FloatWrapperHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/FloatWrapperHolder.java
+END
+LongWrapperHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/LongWrapperHolder.java
+END
+ShortWrapperHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/ShortWrapperHolder.java
+END
+IntegerWrapperHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/IntegerWrapperHolder.java
+END
+ByteArrayHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/ByteArrayHolder.java
+END
+StringHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/StringHolder.java
+END
+DoubleHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/DoubleHolder.java
+END
+BigDecimalHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/BigDecimalHolder.java
+END
+IntHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/IntHolder.java
+END
+ByteWrapperHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/ByteWrapperHolder.java
+END
+BooleanWrapperHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/BooleanWrapperHolder.java
+END
+ByteHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/ByteHolder.java
+END
+BooleanHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/javax/xml/rpc/holders/BooleanHolder.java
+END

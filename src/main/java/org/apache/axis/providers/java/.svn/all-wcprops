@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/530561/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/providers/java
+END
+RMIProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/providers/java/RMIProvider.java
+END
+EJBProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/providers/java/EJBProvider.java
+END
+RPCProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/530561/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/providers/java/RPCProvider.java
+END
+CORBAProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/providers/java/CORBAProvider.java
+END
+JavaProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/providers/java/JavaProvider.java
+END
+MsgProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/356167/webservices/axis/branches/AXIS_1_4_FINAL/src/org/apache/axis/providers/java/MsgProvider.java
+END
